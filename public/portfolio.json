@@ -1,0 +1,54 @@
+{
+  "name": "Abhay",
+  "role": "Aspiring Data Engineer",
+  "tagline": "Building Data insights and pipeline from raw data",
+  "about": "I am a computer science student passionate about using raw data for solving real-world problems.",
+  "goals": "I want to join a product team as a Data enginner and keep learning from experienced engineers.",
+  "interests": ["Processing data", "Open source", "Problem solving", "Analysis"],
+  "profileImage": "/profile.png",
+  "email": "ar7@gmail.com",
+  "socials": {
+    "github": "https://www.linkedin.com",
+    "linkedin": "https://github.com"
+  },
+  "skills": [
+    { "category": "Frontend", "items": ["HTML", "CSS", "JavaScript", "React.js"] },
+    { "category": "Backend", "items": ["Node.js", "Express.js"] },
+    { "category": "Database", "items": ["MongoDB"] },
+    { "category": "Tools", "items": ["Git", "GitHub"] }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "RedRob Repulse",
+      "description": "RepoPulse is an enterprise-grade technical workspace auditor and telemetry engine integrated into the Redrob AI workforce evaluation pipeline. It automatically audits candidate workspaces, runs deterministic code evaluations, calculates smart ATS compatibility scores, and patches critical security vulnerabilities under git branch-safe lifecycles..",
+      "technologies": ["Python", "Pylint", "Hackathon"],
+      "github": "https://github.com/",
+      "demo": "https://example.com/"
+    },
+    {
+      "id": 2,
+      "title": "Weather Application",
+      "description": "A responsive application displaying weather information.",
+      "technologies": ["React", "CSS", "JavaScript"],
+      "github": "https://github.com/",
+      "demo": "https://example.com/"
+    },
+    {
+      "id": 3,
+      "title": "Task Management Application",
+      "description": "An application for organizing everyday tasks.",
+      "technologies": ["React", "CSS", "JavaScript"],
+      "github": "https://github.com/",
+      "demo": "https://example.com/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Applications",
+      "college": "G.L Baja Institute of Managment ",
+      "year": "2025-28",
+      "description": "Studying programming and Upskilling myself."
+    }
+  ]
+}
